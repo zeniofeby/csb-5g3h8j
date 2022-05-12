@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(to right, #e0ffff, #dcdcdc, #e0ffff);
+}
+.wrap {
+  width: 40%;
+  margin: auto;
+  color: white;
+  border-radius: 10px;
+  font-family: comic sans ms;
+  background-color: #008b8b;
+}
+
+.container {
+  padding: 5px;
+  margin: 10%;
+}
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  padding-bottom: 5px;
+}
+
+table td {
+  padding: 5px;
+}
+.tombol {
+  width: 70px;
+  font-family: comic sans ms;
+  height: 30px;
+  background-color: #00ffff;
+  border-radius: 7px;
+}
